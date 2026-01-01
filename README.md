@@ -1,2 +1,2 @@
 # blog
-blog to practice html
+blog to practice html headings, paragraphs, strong, em
